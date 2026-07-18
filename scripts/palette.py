@@ -24,8 +24,8 @@ TERRA = "#C084FC"       # tertiary — orchid
 
 # Contribution ramp, empty -> busiest.
 # Violet field brightening to lilac: the heaviest days glow.
-RAMP_D = ["#1C1630", "#6249AD", "#8261E4", "#A588F6", "#CBB8FF"]
-RAMP_L = ["#ECE6F6", "#B4A0EA", "#9376E6", "#7856D4", "#5B3FB0"]
+RAMP_D = ["#211B30", "#41346E", "#5B49A6", "#7A62D4", "#9E86EE"]
+RAMP_L = ["#ECE6F6", "#CBBBEF", "#A992E8", "#8A6FDE", "#6B4EC8"]
 
 MONO = "ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace"
 
