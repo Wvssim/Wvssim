@@ -2,9 +2,12 @@
 
 ### <code>wassim@casablanca:~$ whoami</code>
 
-<img src="./assets/ascii-portrait.svg" width="360" alt="Coat of arms of Morocco, rendered in ASCII">
-
-<img src="./assets/info-card.svg" width="520" alt="Wassim Lazim — location, studies, stack and shipped work">
+<table>
+<tr>
+<td valign="middle"><img src="./assets/ascii-portrait.svg" width="300" alt="Coat of arms of Morocco, rendered in ASCII"></td>
+<td valign="middle"><img src="./assets/info-card.svg" width="470" alt="Wassim Lazim — location, studies, stack and shipped work"></td>
+</tr>
+</table>
 
 <br>
 
