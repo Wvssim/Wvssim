@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="314" viewBox="0 0 490 314" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Identity card for wassim@casablanca">
+<style>:root{--bg:#17121F;--edge:#241B33;--text:#EDE9F7;--muted:#8B84A0;}@media(prefers-color-scheme:light){:root{--bg:#EAE4F5;--edge:#D6CBEA;--text:#1A1626;--muted:#6A6280;}}.k{fill:var(--muted);font-size:12.5px}.v{fill:var(--text);font-size:12.5px}.host{fill:#8B5CF6;font-size:14px;font-weight:700}.at{fill:#A78BFA;font-size:14px;font-weight:700}.row{opacity:0;animation:in .4s ease-out both}@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:translateX(0)}}@media(prefers-reduced-motion:reduce){.row{opacity:1;animation:none}}</style>
+<rect x="0.5" y="0.5" width="489" height="313" rx="10" fill="var(--bg)" stroke="var(--edge)"/>
+<text class="host" x="26" y="34">wassim<tspan class="at">@</tspan>casablanca</text>
+<line x1="26" y1="45" x2="464" y2="45" stroke="var(--edge)"/>
+<g class="row" style="animation-delay:0.000s"><text class="k" x="26" y="74">os      </text><text class="v" x="104" y="74">Morocco · Casablanca (GMT+1)</text></g>
+<g class="row" style="animation-delay:0.055s"><text class="k" x="26" y="100">host    </text><text class="v" x="104" y="100">EMSI — Génie Logiciel, 5e année</text></g>
+<g class="row" style="animation-delay:0.110s"><text class="k" x="26" y="126">kernel  </text><text class="v" x="104" y="126">full-stack → data engineering</text></g>
+<g class="row" style="animation-delay:0.165s"><text class="k" x="26" y="152">shell   </text><text class="v" x="104" y="152">français · العربية · english</text></g>
+<g class="row" style="animation-delay:0.220s"><text class="k" x="26" y="178">wm      </text><text class="v" x="104" y="178">Claude Code + VS Code</text></g>
+<g class="row" style="animation-delay:0.275s"><text class="k" x="26" y="204">packages</text><text class="v" x="104" y="204">next.js · spring-boot · tauri · kafka</text></g>
+<g class="row" style="animation-delay:0.330s"><text class="k" x="26" y="230">uptime  </text><text class="v" x="104" y="230">4 yrs building, 2 yrs shipping to clients</text></g>
+<g class="row" style="animation-delay:0.385s"><text class="k" x="26" y="256">disk    </text><text class="v" x="104" y="256">swhnegoce.ma · SwhOffice · CDC pipeline</text></g>
+<rect x="26" y="284" width="16" height="10" rx="2" fill="#6249AD"/>
+<rect x="48" y="284" width="16" height="10" rx="2" fill="#8261E4"/>
+<rect x="70" y="284" width="16" height="10" rx="2" fill="#A588F6"/>
+<rect x="92" y="284" width="16" height="10" rx="2" fill="#CBB8FF"/>
+<rect x="114" y="284" width="16" height="10" rx="2" fill="#8B5CF6"/>
+<rect x="136" y="284" width="16" height="10" rx="2" fill="#A78BFA"/>
+<rect x="158" y="284" width="16" height="10" rx="2" fill="#C084FC"/>
+<rect x="180" y="284" width="16" height="10" rx="2" fill="#EDE9F7"/>
+</svg>
