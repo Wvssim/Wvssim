@@ -381,5 +381,6 @@
 <rect class="c" x="850" y="104" width="13" height="13" rx="2.5" fill="var(--l2)" style="animation-delay:0.796s"><title>2026-07-17: 13</title></rect>
 <rect class="c" x="850" y="120" width="13" height="13" rx="2.5" fill="var(--l2)" style="animation-delay:0.799s"><title>2026-07-18: 12</title></rect>
 <rect class="c" x="866" y="24" width="13" height="13" rx="2.5" fill="var(--l0)" style="animation-delay:0.801s"><title>2026-07-19: 0</title></rect>
+<rect class="c" x="866" y="40" width="13" height="13" rx="2.5" fill="var(--l0)" style="animation-delay:0.803s"><title>2026-07-20: 0</title></rect>
 <text class="total" x="34" y="160"><tspan class="tot-n">428</tspan> contributions in the last year</text>
 </svg>
