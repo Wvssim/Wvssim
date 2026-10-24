@@ -21,9 +21,18 @@
 
 ### <code>wassim@casablanca:~$ ls -lh ~/shipped</code>
 
-Software engineering student in Casablanca. I'd rather ship one thing people
-actually use than five tutorials, so everything below is in production or
-headed there.
+Final-year Software Engineering student at EMSI in Casablanca, focused on
+**Full-Stack and Backend Development**. I design and build practical software,
+from web applications and business tools to event-driven systems.
+
+I'm also **exploring Data Analytics & Business Intelligence**, building on
+my SQL and data integration experience.
+
+**Seeking a 6-month PFE internship in 2027**, ideally with a potential
+full-time opportunity, in Software Engineering, Backend, or Full-Stack.
+Also open to technical BI and data automation opportunities.
+
+Selected work:
 
 | | | |
 |---|---|---|
@@ -31,15 +40,16 @@ headed there.
 | **SwhOffice** | Desktop invoicing built ahead of Morocco's DGI e-invoicing reform — clearance state machine, sequential official numbering, client snapshots at finalisation, ICE/IF/RC checksum validation. | `Tauri` `Rust` `React` `SQLite` |
 | **[CDC pipeline](https://github.com/Wvssim/cdc-streaming-pipeline)** | Change-data-capture fan-out: one Postgres write feeds five independent consumers — audit, notification, blockchain, OCR, SIEM — with no coupling between them. | `Debezium` `Kafka` `Spring Boot` `Angular` |
 | **[ISO 8583 load-test](https://github.com/Wvssim/iso8583-jmeter-loadtest)** | ISO 8583 load-testing bench in JMeter — authorisation client and server, timestamped jPOS traces with PAN masking, and an auto-generated transaction report. | `JMeter` `jPOS` `Java` |
-| **[EMSI RAG assistant](https://github.com/Wvssim/Emsi-rag-assistant)** | Local retrieval-augmented assistant over EMSI's academic docs — contextual answers grounded in the source brochure, nothing leaves the machine. | `Python` `LangChain` `ChromaDB` `Groq` |
+| **[EMSI RAG assistant](https://github.com/Wvssim/Emsi-rag-assistant)** | Retrieval-augmented assistant over EMSI academic documents — local vector indexing with Groq-hosted generation and source references. | `Python` `LangChain` `ChromaDB` `Groq` |
 | **[Smart irrigation](https://github.com/Wvssim/Smart-Irrigation-System-iot)** | Soil-moisture-driven irrigation with real-time supervision, configurable watering logic, a REST API and a live dashboard. | `Flask` `MongoDB` `Charts.js` |
 
 ### <code>wassim@casablanca:~$ git log --author=Wvssim --oneline /oss</code>
 
-- **[presenton/presenton](https://github.com/presenton/presenton)** — fixed an
-  `OSError` on export when filenames exceed the filesystem byte limit
-  (long CJK titles) via a `safe_export_basename()` helper; plus a
-  troubleshooting section for the setup issues that kept resurfacing in issues.
+- **[presenton/presenton](https://github.com/presenton/presenton)** — two merged
+  contributions: [#609](https://github.com/presenton/presenton/pull/609)
+  prevents export errors with long filenames, and
+  [#814](https://github.com/presenton/presenton/pull/814) improves startup
+  resilience when application-data permissions cannot be adjusted.
 
 <div align="center">
 
@@ -69,7 +79,7 @@ headed there.
 
 <br>
 
-<sub>Open to freelance work and internships in data engineering.</sub>
+<sub>Seeking PFE 2027 · Software Engineering / Backend / Full-Stack · Exploring Data Analytics & BI.</sub>
 
 </div>
 
